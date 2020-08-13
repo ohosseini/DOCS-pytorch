@@ -7,8 +7,12 @@ This is the **Pytorch** implementation of our paper **Deep Object Co-Segmentatio
 ## Requirements
 
 - Python 3
-- Pytorch >= 0.4.1
-- gcc >= 4.9
+- Pytorch >= 1.0
+- gcc (tested with gcc 8)
+
+Tested on *Ubuntu 20.04* with *pytorch 1.5*, *CUDA 10.2* and *gcc 8.0* .
+
+NOTE: for using it with older version of pytorch (0.4.1) please check [v1.0](https://github.com/ohosseini/DOCS-pytorch/tree/v1.0) .
 
 ## Installation
 
